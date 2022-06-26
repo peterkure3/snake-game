@@ -2,8 +2,9 @@
 Snake game that runs in the terminal.
 
 ## Dependencies
-python
-window-curses
+Python,
+Window-curses
 
-Command to run the game:
-=> python snake.py
+## Command to run the game:
+python snake.py
+
